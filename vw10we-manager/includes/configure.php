@@ -7,7 +7,7 @@ define('ENABLE_SSL', 'false');
 define('DIR_WS_CATALOG', '/');
 define('DIR_WS_CATALOG_IMAGES', HTTP_SERVER . DIR_WS_CATALOG . 'images/');
 define('DIR_WS_CATALOG_IMAGES_CACHE', DIR_WS_CATALOG_IMAGES . 'cache/');
-define('DIR_WS_ADMIN', DIR_WS_CATALOG . 'vw10we-a-manager/');
+define('DIR_WS_ADMIN', DIR_WS_CATALOG . 'vw10we-manager/');
 define('DIR_WS_ADMIN_IMAGES', 'images/');
 
 //FS
