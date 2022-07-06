@@ -1,0 +1,1 @@
+a:1:{i:0;a:4:{s:10:"ip_address";s:12:"93.158.92.13";s:11:"is_facebook";s:1:"0";s:14:"continent_code";s:2:"EU";s:12:"country_code";s:2:"SE";}}

@@ -1,0 +1,1 @@
+a:1:{i:0;a:4:{s:10:"ip_address";s:31:"2a03:94e0:ffff:185:181:60:0:189";s:11:"is_facebook";s:1:"1";s:14:"continent_code";s:2:"EU";s:12:"country_code";s:2:"NO";}}

@@ -1,0 +1,1 @@
+a:2:{i:0;a:2:{s:10:"product_id";s:3:"710";s:4:"name";s:17:"BAS RELIEF BROOCH";}i:1;a:2:{s:10:"product_id";s:3:"711";s:4:"name";s:17:"BAS RELIEF BROOCH";}}

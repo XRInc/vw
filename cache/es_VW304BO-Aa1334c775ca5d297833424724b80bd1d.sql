@@ -1,0 +1,1 @@
+a:2:{i:0;a:2:{s:10:"product_id";s:3:"890";s:4:"name";s:14:"VALUE SPREE 01";}i:1;a:2:{s:10:"product_id";s:3:"891";s:4:"name";s:14:"VALUE SPREE 02";}}

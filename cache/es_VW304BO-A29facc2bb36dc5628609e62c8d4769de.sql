@@ -1,0 +1,1 @@
+a:4:{i:0;a:2:{s:10:"product_id";s:3:"682";s:4:"name";s:24:"MINI BAS RELIEF EARRINGS";}i:1;a:2:{s:10:"product_id";s:3:"683";s:4:"name";s:24:"MINI BAS RELIEF EARRINGS";}i:2;a:2:{s:10:"product_id";s:3:"684";s:4:"name";s:42:"Mayfair Bas Relief Earrings Pink Gold Tone";}i:3;a:2:{s:10:"product_id";s:3:"709";s:4:"name";s:23:"NEW HEART STUD EARRINGS";}}
